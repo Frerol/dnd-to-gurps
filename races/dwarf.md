@@ -19,7 +19,7 @@ In D&D's main setting, Forgotten Realms, there are several dwarven subraces, and
 
 ***
 
-* – See Table 1-4: Character Regions (FRCS p. 30).
+\* – See Table 1-4: Character Regions (FRCS p. 30).
 
 ** – Optional.
 
