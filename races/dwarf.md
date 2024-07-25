@@ -5,11 +5,11 @@ In D&D's main setting, Forgotten Realms, there are several dwarven subraces, and
 
 >## Shield Dwarf
 >
->***Attribute Modifiers:*** HT+1 [10]; ST+1 [10];
+>***Attribute Modifiers:*** HT +1 [10]; ST +1 [10];
 >
->***Secondary Characteristic Modifiers:*** SM -1; Basic Move-1 [-5];
+>***Secondary Characteristic Modifiers:*** SM -1; Basic Move -1 [-5];
 >
->***Advantages:*** Absolute Direction (Underground only [-20%]) [4]; Acute Touch 1 [2]; DR 1 (Tough Skin [-40%]) [3]; Extended Lifespan 2 [4]; Magic Resistance 3 [6]; Night Vision 2 [2]; Resistant (Common: Poison [15]; +3 to all HT rolls to resist [×1/3]) [5]; Talent (Artificer) (Metal or stone only [-20%]) [8]; Language: Common (Native) [0]; Language: Dwarvish (Native) [0]; *Language: Homeland (Native)** [0];
+>***Advantages:*** Absolute Direction (Underground only [-20%]) [4]; Acute Touch 1 [2]; DR 1 (Tough Skin [-40%]) [3]; Extended Lifespan 2 [4]; Magic Resistance 3 [6]; Night Vision 2 [2]; Resistant (Common: Poison [15]; +3 to all HT rolls to resist [×1/3]) [5]; Talent (Artificer) (Metal or stone only [-20%]) [8]; Language: Common (Native) [0]; Language: Dwarven (Native) [0]; *Language: Homeland (Native)** [0];
 >
 >***Perks:*** Stability (+2 knockdown resist) [2]
 >
@@ -28,4 +28,29 @@ In D&D's main setting, Forgotten Realms, there are several dwarven subraces, and
 >### Brief Description
 >Shield dwarves, also known as mountain dwarves, were among the most common of the dwarven peoples. Once the rulers of mighty kingdoms across Faerûn, the shield dwarves had since fallen by the wayside after centuries of warfare with their goblinoid enemies. Since then, shield dwarves were less commonly seen throughout Faerûn, though during the Era of Upheaval the subrace, spurred on by the Thunder Blessing, began to retake an important role in local politics. They were the most common dwarf in the north of Faerûn.
 >
+
+>## Gold Dwarf
+>
+>***Attribute Modifiers:*** HT +1 [10]; ST +1 [10] DX -1 [-20];
+>
+>***Secondary Characteristic Modifiers:*** SM -1; Will +1 [5]; Per +1 [5]; Basic Move -1 [-5];
+>
+>***Advantages:*** Absolute Direction (Underground only [-20%]) [4]; Acute Touch 1 [2]; DR 1 (Tough Skin [-40%]) [3]; Extended Lifespan 2 [4]; Magic Resistance 3 [6]; Night Vision 2 [2]; Resistant (Common: Poison [15]; +3 to all HT rolls to resist [×1/3]) [5]; Talent (Artificer) (Metal or stone only [-20%]) [8]; Language: Common (Native) [0]; Language: Dwarven (Native) [0]; *Language: Homeland (Native)** [0];
+>
+>***Perks:*** Stability (+2 knockdown resist) [2]
+>
+>***Desvantagens:*** Appearance: Unattractive (To Non-Dwarves only [-20%]) [-3]; Honor Code (Dwarves†) [-5]; Greed [-15] **; Intolerance (Goblinoid Races) [-5] **; Stubbornness [-5] **
+>
+>***Quirks:*** Aurophilia (Love Of Gold) [-1] **; Dislikes Horses [-1] **
+>
+>***
+>
+>\* – See Table 1-4: Character Regions (FRCS p. 30).
+>
+>** – Optional.
+>
+>† - Always be loyal to the king; honor your clan, family and ancestors; never break your word; never forget an evil deed done to you; never abandon a companion in need; never accept an insult to your beard or your work; respect your neighbor's beard and work.
+>
+>### Brief Description
+>Gold dwarves, also known as hill dwarves, were the aloof, confident and sometimes proud subrace of dwarves that predominantly came from the Great Rift. They were known to be particularly stalwart warriors and shrewd traders. Gold dwarves were often trained specifically to battle the horrendous aberrations that were known to come from the Underdark.
 >
