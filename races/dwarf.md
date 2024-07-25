@@ -24,3 +24,8 @@ In D&D's main setting, Forgotten Realms, there are several dwarven subraces, and
 >** – Optional.
 >
 >† - Always be loyal to the king; honor your clan, family and ancestors; never break your word; never forget an evil deed done to you; never abandon a companion in need; never accept an insult to your beard or your work; respect your neighbor's beard and work.
+>
+>### Brief Description
+>Shield dwarves, also known as mountain dwarves, were among the most common of the dwarven peoples. Once the rulers of mighty kingdoms across Faerûn, the shield dwarves had since fallen by the wayside after centuries of warfare with their goblinoid enemies. Since then, shield dwarves were less commonly seen throughout Faerûn, though during the Era of Upheaval the subrace, spurred on by the Thunder Blessing, began to retake an important role in local politics. They were the most common dwarf in the north of Faerûn.
+>
+>
