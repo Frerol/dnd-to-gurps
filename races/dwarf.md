@@ -16,7 +16,7 @@ Shield dwarves, also known as mountain dwarves, were among the most common of th
 >
 >***Perks:*** Stability (+2 to resist knockdown) [2]
 >
->***Disadvantages:*** Appearance: Unattractive (To Non-Dwarves only [-20%]) [-3]; Honor Code (Dwarves†) [-5]; Greed [-15] **; Intolerance (Goblinoid Races) [-5] **; Stubbornness [-5] **
+>***Disadvantages:*** Appearance: Unattractive (To Non-Dwarves only [-20%]) [-3]; Code of Honor (Dwarves†) [-5]; Greed [-15] **; Intolerance (Goblinoid Races) [-5] **; Stubbornness [-5] **
 >
 >***Quirks:*** Aurophilia (Love Of Gold) [-1] **; Dislikes Horses [-1] **
 >
@@ -42,7 +42,7 @@ Gold dwarves, also known as hill dwarves, were the aloof, confident and sometime
 >
 >***Perks:*** Stability (+2 to resist knockdown) [2]
 >
->***Disadvantages:*** Appearance: Unattractive (To Non-Dwarves only [-20%]) [-3]; Honor Code (Dwarves†) [-5]; Greed [-15] **; Intolerance (Goblinoid Races) [-5] **; Stubbornness [-5] **
+>***Disadvantages:*** Appearance: Unattractive (To Non-Dwarves only [-20%]) [-3]; Code of Honor (Dwarves†) [-5]; Greed [-15] **; Intolerance (Goblinoid Races) [-5] **; Stubbornness [-5] **
 >
 >***Quirks:*** Aurophilia (Love Of Gold) [-1] **; Dislikes Horses [-1] **
 >
@@ -70,7 +70,7 @@ Gray dwarves, also known variously as duergar, dark dwarves, underdwarves, or uh
 >
 >***Perks:*** Stability (+2 to resist knockdown) [2]
 >
->***Disadvantages:*** Appearance: Unattractive (To Non-Dwarves only [-20%]) [-3]; Honor Code (Duergar†) [-5]; Social Stigma (Minority Group) [-10] ‡; Greed [-15] **; Intolerance (Every Other Race) [-5] **
+>***Disadvantages:*** Appearance: Unattractive (To Non-Dwarves only [-20%]) [-3]; Code of Honor (Duergar†) [-5]; Social Stigma (Minority Group) [-10] ‡; Greed [-15] **; Intolerance (Every Other Race) [-5] **
 >
 >***Quirks:*** Aurophilia (Love Of Gold) [-1] **; Racial spells may be used only on the *caster* [-1] **
 >
