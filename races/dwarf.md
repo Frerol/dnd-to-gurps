@@ -29,10 +29,10 @@ Shield dwarves, also known as mountain dwarves, were among the most common of th
 >† - Always be loyal to the king; honor your clan, family and ancestors; never break your word; never forget an evil deed done to you; never abandon a companion in need; never accept an insult to your beard or your work; respect your neighbor's beard and work.
 >
 
-## Gold Dwarf [6]
+## Gold Dwarf
 Gold dwarves, also known as hill dwarves, were the aloof, confident and sometimes proud subrace of dwarves that predominantly came from the Great Rift. They were known to be particularly stalwart warriors and shrewd traders. Gold dwarves were often trained specifically to battle the horrendous aberrations that were known to come from the Underdark.
 
->### Gold Dwarf Template
+>### Gold Dwarf Template [6]
 >
 >***Attribute Modifiers:*** ST +1 [10]; DX -1 [-20]; HT +1 [10];
 >
@@ -55,10 +55,10 @@ Gold dwarves, also known as hill dwarves, were the aloof, confident and sometime
 >† - Always be loyal to the king; honor your clan, family and ancestors; never break your word; never forget an evil deed done to you; never abandon a companion in need; never accept an insult to your beard or your work; respect your neighbor's beard and work.
 >
 
-## Gray Dwarf [43]
+## Gray Dwarf
 Gray dwarves, also known variously as duergar, dark dwarves, underdwarves, or uhubreen – were a subterranean subrace of dwarves. They carved out an existence in the Underdark, often near volcanoes. Their kinship to other dwarven subraces could be compared to that of the drow to surface elves.
 
->### Gray Dwarf Template
+>### Gray Dwarf Template [43]
 >
 >***Attribute Modifiers:*** IQ +1 [20]; HT +1 [10];
 >
