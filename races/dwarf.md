@@ -8,11 +8,11 @@ Shield dwarves, also known as mountain dwarves, were among the most common of th
 
 >### Shield Dwarf Template
 >
->***Attribute Modifiers:*** HT +1 [10]; ST +1 [10];
+>***Attribute Modifiers:*** ST +1 [10]; HT +1 [10];
 >
 >***Secondary Characteristic Modifiers:*** SM -1; Basic Move -1 [-5];
 >
->***Advantages:*** Absolute Direction (Underground only [-20%]) [4]; Acute Touch 1 [2]; DR 1 (Tough Skin [-40%]) [3]; Extended Lifespan 2 [4]; Magic Resistance 3 [6]; Night Vision 2 [2]; Resistant (Common: Poison [15]; +3 to all HT rolls to resist [×1/3]) [5]; Talent (Artificer) (Metal or stone only [-20%]) [8]; Language: Common (Native) [0]; Language: Dwarven (Native) [0]; *Language: Homeland (Native)** [0];
+>***Advantages:*** Absolute Direction (Underground only [-20%]) [4]; Acute Touch 1 [2]; DR 1 (Tough Skin [-40%]) [3]; Extended Lifespan 2 [4]; Magic Resistance 3 [6]; Night Vision 2 [2]; Resistant (Common: Poison [15]; +3 to all HT rolls to resist [×1/3]) [5]; Talent (Artificer) (Metal or stone only [-20%]) [8]; Language: Common (Native) [0]; Language: Dwarvish (Native) [0]; *Language: Homeland (Native)** [0];
 >
 >***Perks:*** Stability (+2 to resist knockdown) [2]
 >
@@ -34,11 +34,11 @@ Gold dwarves, also known as hill dwarves, were the aloof, confident and sometime
 
 >### Gold Dwarf Template
 >
->***Attribute Modifiers:*** HT +1 [10]; ST +1 [10]; DX -1 [-20];
+>***Attribute Modifiers:*** ST +1 [10]; DX -1 [-20]; HT +1 [10];
 >
 >***Secondary Characteristic Modifiers:*** SM -1; Will +1 [5]; Per +1 [5]; Basic Move -1 [-5];
 >
->***Advantages:*** Absolute Direction (Underground only [-20%]) [4]; Acute Touch 1 [2]; DR 1 (Tough Skin [-40%]) [3]; Extended Lifespan 2 [4]; Magic Resistance 3 [6]; Night Vision 2 [2]; Resistant (Common: Poison [15]; +3 to all HT rolls to resist [×1/3]) [5]; Talent (Artificer) (Metal or stone only [-20%]) [8]; Language: Common (Native) [0]; Language: Dwarven (Native) [0]; *Language: Homeland (Native)** [0];
+>***Advantages:*** Absolute Direction (Underground only [-20%]) [4]; Acute Touch 1 [2]; DR 1 (Tough Skin [-40%]) [3]; Extended Lifespan 2 [4]; Magic Resistance 3 [6]; Night Vision 2 [2]; Resistant (Common: Poison [15]; +3 to all HT rolls to resist [×1/3]) [5]; Talent (Artificer) (Metal or stone only [-20%]) [8]; Language: Common (Native) [0]; Language: Dwarvish (Native) [0]; *Language: Homeland (Native)** [0];
 >
 >***Perks:*** Stability (+2 to resist knockdown) [2]
 >
@@ -84,7 +84,29 @@ Gray dwarves, also known variously as duergar, dark dwarves, underdwarves, or uh
 >
 >\*** - Usable once per day; Duration: 1 minute; Time to cast: 1 second; Cannot be maintained; For the descriptions of the spells, see pp. M42 and M114. Both spells have the Limited Used (1 Use Per Day) limitation, which reduces their CP cost.
 >
->† - Always be loyal to the king; honor your clan, family and ancestors; never break your word; never forget an evil deed done to you; never abandon a companion in need; never accept an insult to your beard or your work; respect your neighbor's beard and work.
+>† - Honor your clan, family and ancestors; never break your word; never forget an evil deed done to you; never abandon a companion in need; never accept an insult to your beard or your work; respect your neighbor's beard and work.
 >
 >‡ - Depends on how gray dwarves are regarded in your setting. This one applies to the Forgotten Realms, at least.
+>
+
+## Arctic Dwarf
+Arctic dwarves, also known as Inugaakalikurit, were a race of dwarves located in the isolated reaches of the Great Glacier in Faerûn's northernmost reaches. Arctic dwarves had a different origin from most other dwarves in Faerûn and were significantly different physiologically and culturally from other members of the Stout Folk, so much that they might be considered their own race.
+
+>### Arctic Dwarf Template
+>
+>***Attribute Modifiers:*** ST +2 [20]; DX -1 [-20]; HT +1 [10];
+>
+>***Secondary Characteristic Modifiers:*** SM -1; Basic Move -1 [-5];
+>
+>***Advantages:*** Absolute Direction (Underground only [-20%]) [4]; Acute Touch 1 [2]; DR 1 (Tough Skin [-40%]) [3]; Extended Lifespan 2 [4]; Magic Resistance 3 [6]; Night Vision 2 [2]; Resistant (Common: Poison [15]; +3 to all HT rolls to resist [×1/3]) [5]; Talent (Artificer) (Metal or stone only [-20%]) [8]; Temperature Tolerance (Immunity to Cold) [2]; Language: Common (Native) [0]; Language: Dwarvish (Native) [0]; *Language: Homeland (Native)** [0];
+>
+>***Perks:*** Stability (+2 to resist knockdown) [2]
+>
+>***Disadvantages:*** Appearance: Unattractive [-4]; Intolerance (Ice Giants) [-2] **; Stubbornness [-5] **
+>
+>***
+>
+>\* – See Table 1-4: Character Regions (FRCS p. 30).
+>
+>** – Optional.
 >
