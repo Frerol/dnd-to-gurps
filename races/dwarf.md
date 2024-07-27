@@ -6,7 +6,7 @@ In D&D's main setting, Forgotten Realms, there are several dwarven subraces, and
 ## Shield Dwarf
 Shield dwarves, also known as mountain dwarves, were among the most common of the dwarven peoples. Once the rulers of mighty kingdoms across Faerûn, the shield dwarves had since fallen by the wayside after centuries of warfare with their goblinoid enemies.
 
->### Shield Dwarf Template
+>### Shield Dwarf Template [16]
 >
 >***Attribute Modifiers:*** ST +1 [10]; HT +1 [10];
 >
@@ -29,7 +29,7 @@ Shield dwarves, also known as mountain dwarves, were among the most common of th
 >† - Always be loyal to the king; honor your clan, family and ancestors; never break your word; never forget an evil deed done to you; never abandon a companion in need; never accept an insult to your beard or your work; respect your neighbor's beard and work.
 >
 
-## Gold Dwarf
+## Gold Dwarf [6]
 Gold dwarves, also known as hill dwarves, were the aloof, confident and sometimes proud subrace of dwarves that predominantly came from the Great Rift. They were known to be particularly stalwart warriors and shrewd traders. Gold dwarves were often trained specifically to battle the horrendous aberrations that were known to come from the Underdark.
 
 >### Gold Dwarf Template
@@ -55,7 +55,7 @@ Gold dwarves, also known as hill dwarves, were the aloof, confident and sometime
 >† - Always be loyal to the king; honor your clan, family and ancestors; never break your word; never forget an evil deed done to you; never abandon a companion in need; never accept an insult to your beard or your work; respect your neighbor's beard and work.
 >
 
-## Gray Dwarf
+## Gray Dwarf [43]
 Gray dwarves, also known variously as duergar, dark dwarves, underdwarves, or uhubreen – were a subterranean subrace of dwarves. They carved out an existence in the Underdark, often near volcanoes. Their kinship to other dwarven subraces could be compared to that of the drow to surface elves.
 
 >### Gray Dwarf Template
@@ -66,11 +66,11 @@ Gray dwarves, also known variously as duergar, dark dwarves, underdwarves, or uh
 >
 >***Features:*** Night Vision 8 (Cannot see very well under sunlight — under sunlight, -2 to perform tasks that rely on Sight)
 >
->***Advantages:*** Absolute Direction (Underground only [-20%]) [4]; Acute Touch 1 [2]; DR 1 (Tough Skin [-40%]) [3]; Extended Lifespan 2 [4]; Infravision [10]; Magery 0 [5]; Resistant (Occasional: Paralysis effects, Illusion, Magical and Alchemical Poisons (Unnatural) [15]; Immunity [×1]) [5]; Silence 2 [10]; Talent (Artificer) (Metal or Stone only [-20%]) [8]; Language: Undercommon (Native) [0]; Language: Duergan (Native) [0]; Language: Homeland * (Native) [0].
+>***Advantages:*** Absolute Direction (Underground only [-20%]) [4]; Acute Touch 1 [2]; DR 1 (Tough Skin [-40%]) [3]; Extended Lifespan 2 [4]; Infravision [10]; Magery 0 [5]; Resistant (Occasional: Paralysis effects, Illusion, Magical and Alchemical Poisons (Unnatural) [10]; Immunity [×1]) [10]; Silence 2 [10]; Talent (Artificer) (Metal or Stone only [-20%]) [8]; Language: Undercommon (Native) [0]; Language: Duergan (Native) [0]; Language: Homeland * (Native) [0].
 >
 >***Perks:*** Stability (+2 to resist knockdown) [2]
 >
->***Disadvantages:*** Appearance: Unattractive (To Non-Dwarves only [-20%]) [-3]; Code of Honor (Duergar†) [-5]; Social Stigma (Minority Group) [-10] ‡; Greed [-15] **; Intolerance (Every Other Race) [-5] **
+>***Disadvantages:*** Appearance: Unattractive (To Non-Dwarves only [-20%]) [-3]; Code of Honor (Duergar†) [-5]; Greed [-15] **; Intolerance (Every Other Race) [-10] ‡; Social Stigma (Minority Group) [-10] ‡;
 >
 >***Quirks:*** Aurophilia (Love Of Gold) [-1] **; Racial spells may be used only on the *caster* [-1] **
 >
@@ -92,13 +92,13 @@ Gray dwarves, also known variously as duergar, dark dwarves, underdwarves, or uh
 ## Arctic Dwarf
 Arctic dwarves, also known as Inugaakalikurit, were a race of dwarves located in the isolated reaches of the Great Glacier in Faerûn's northernmost reaches. Arctic dwarves had a different origin from most other dwarves in Faerûn and were significantly different physiologically and culturally from other members of the Stout Folk, so much that they might be considered their own race.
 
->### Arctic Dwarf Template
+>### Arctic Dwarf Template [32]
 >
 >***Attribute Modifiers:*** ST +2 [20]; DX -1 [-20]; HT +1 [10];
 >
 >***Secondary Characteristic Modifiers:*** SM -1; Basic Move -1 [-5];
 >
->***Advantages:*** Absolute Direction (Underground only [-20%]) [4]; Acute Touch 1 [2]; DR 1 (Tough Skin [-40%]) [3]; Extended Lifespan 2 [4]; Magic Resistance 3 [6]; Night Vision 2 [2]; Resistant (Common: Poison [15]; +3 to all HT rolls to resist [×1/3]) [5]; Talent (Artificer) (Metal or stone only [-20%]) [8]; Temperature Tolerance (Immunity to Cold) [2]; Language: Common (Native) [0]; Language: Dwarvish (Native) [0]; *Language: Homeland (Native)** [0];
+>***Advantages:*** Absolute Direction (Underground only [-20%]) [4]; Acute Touch 1 [2]; DR 1 (Tough Skin [-40%]) [3]; Extended Lifespan 2 [4]; Magic Resistance 3 [6]; Night Vision 2 [2]; Resistant (Common: Poison [15]; +3 to all HT rolls to resist [×1/3]) [5]; Talent (Artificer) (Metal or stone only [-20%]) [8]; Temperature Tolerance (Increased Cold Resistance Threshold) [2]; Language: Common (Native) [0]; Language: Dwarvish (Native) [0]; *Language: Homeland (Native)** [0];
 >
 >***Perks:*** Stability (+2 to resist knockdown) [2]
 >
